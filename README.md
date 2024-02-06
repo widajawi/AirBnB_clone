@@ -106,8 +106,7 @@ guillaume@ubuntu:~/AirBnB$ ./console.py
 | ```<class>.update(<ID>, <attribute name>, <attribute value>```  | Same as update ```<class> <ID> <attribute name> <attribute value>```
 | ```<class>.update(<ID>, <dictionary representation>)```  | Updates an objects based on a dictionary representation of attribute names and values
 ```
-# AUTHORS
-ZAKARIA EL_MAJDOUBI 
+ 
 
 
 
